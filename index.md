@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/Frax600/curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Francisco José Rodríguez Junquero
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Detalles personales
 
-- Bulleted
-- List
+**Correo:** frax600@gmail.com
 
-1. Numbered
-2. List
+**Telefono:** 636828858
 
-**Bold** and _Italic_ and `Code` text
+**Fecha de nacimiento:** 08/07/1997
 
-[Link](url) and ![Image](src)
-```
+**Dirección:** Chipiona 11550, Calle Plutón nº14
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Nacionalidad:** Española
 
-### Jekyll Themes
+#### Formación Académica
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Frax600/curriculum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Técnico de Sistemas Microinformáticos y Redes 2020**
 
-### Support or Contact
+IES Salmedina
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Educación Secundaria Obligatoria 2013**
+
+IES Salmedina
+
+#### Aptitudes
+
+- Creatividad
+- Actitud positiva
+- Trabajo en equipo
+- Actitud emprendedora
+- Comprometido
+- Buena capacidad de comunicación
+- Buena presencia
+
+#### Información Adicional
+
+- Carnet de conducir B
+- Nivel de ingles medio
+- Disponibilidad total para trabajar fines de semana
+- Disponibilidad para rotar por turnos
+
+#### Idiomas
+
+- Ingles: Nivel alto
+- Español: Lengua materna
+- Alemán: Nivel medio
+- Frances: Nivel medio
